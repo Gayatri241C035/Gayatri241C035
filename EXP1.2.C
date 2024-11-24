@@ -17,7 +17,5 @@ int main(){
    printf("PCM Average = %d\n", avg);
    avg>=50?printf("You are Eligible for Admission"):printf("You are NOT Eligible for Admission");
 
-
-
    return 0;
 }
